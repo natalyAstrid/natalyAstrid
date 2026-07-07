@@ -1,2 +1,2 @@
-## natalyAstrid ✨
+## nataly Astrid ✨
 
