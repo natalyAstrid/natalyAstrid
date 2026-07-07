@@ -1,2 +1,5 @@
 ## nataly Astrid ✨
+ Soy estudiente de Desarrollo de Software, 
 
+
+<img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/50dcd371-5df4-4d58-9bc5-55402336aa28" />
