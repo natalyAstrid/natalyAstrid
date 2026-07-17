@@ -3,9 +3,13 @@
  
  Actualmente estoy aprendiendo:
 ⭐HTML
+
  ⭐CSS
+ 
  ⭐Tailwind CSS
- ⭐Booststrap 
+
+ ⭐Booststrap
+ 
  Mi objetivo:
  Seguir aprendiendo y mejorando mis habilidades en el desarrollo de software, creando proyectos que me permitan adquirir experiencia.
 
