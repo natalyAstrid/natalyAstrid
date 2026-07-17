@@ -1,10 +1,11 @@
   ## ¡Hola! Soy nataly Astrid ✨
  Soy estudiente de Desarrollo de Software.
+ 
  Actualmente estoy aprendiendo:
- -HTML
- -CSS
- -Tailwind CSS
- -Booststrap 
+⭐HTML
+ ⭐CSS
+ ⭐Tailwind CSS
+ ⭐Booststrap 
  Mi objetivo:
  Seguir aprendiendo y mejorando mis habilidades en el desarrollo de software, creando proyectos que me permitan adquirir experiencia.
 
