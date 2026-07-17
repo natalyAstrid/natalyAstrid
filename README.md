@@ -1,5 +1,5 @@
   ## ¡Hola! Soy nataly Astrid ✨
- Soy estudiente de Desarrollo de Software.
+ 💻 Soy estudiente de Desarrollo de Software.
  
  Actualmente estoy aprendiendo:
 ⭐HTML
